@@ -1,0 +1,36 @@
+.header.div{
+    display inline-block;
+}
+header{
+    border-bottom: 20px; 
+}
+article{
+    display: inline-block;
+    margin: 50px;
+    width: 200px;
+}
+article img{
+    width: 100px;
+}
+article .article-picture{
+    height: 400px;
+    overflow: scroll
+}
+footer{
+    background: blue;
+    margin: 50px,50px;
+    padding: 50px 
+}
+footer p{
+    color: white;
+    font-size: 25px;
+}
+footer .picture{
+    width: 90px
+}
+footer .picture img{
+    width: 100%
+}
+footer .footer-div{
+    display: inline-block
+}

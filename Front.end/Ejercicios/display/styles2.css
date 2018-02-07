@@ -1,0 +1,14 @@
+.header-div{
+    display: -ms-grid
+}
+.imgh{
+    width: 150px
+}
+.imga{
+    width: 200px
+}
+article{
+    display: inline-block;
+    margin: 20px;
+    width: 200px;
+}

@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    margin-left: 200px
+  }
+  li{
+    font-size: 25px;
+    margin-left: 400px;
+  }
+p{
+  color:aqua;
+}
+
+ol ul{
+  font-size: 30px;
+}
+ol li:first-letter{
+  color:green;
+  font-size: 50px
+}
